@@ -15,7 +15,7 @@
 <h1 align="left">Demo</h1>
 
 <p align="center">
-    <img width="1000" src="[https://github.com/RyamAlmalki/InVogue/blob/master/main_page.png](https://github.com/RyamAlmalki/Task_Management_System/blob/main/admin_panel.png?raw=true)" alt="Material Bread logo">
+    <img width="1000" src="![image](https://user-images.githubusercontent.com/86604450/224762256-12dc3cd4-055e-41bf-8889-75e5f961e62b.png)" alt="Material Bread logo">
 </p>
 
 <p align="center">
