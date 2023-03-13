@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    <img width="1000" src="https://github.com/RyamAlmalki/InVogue/blob/master/product_page.png">
+    <img width="1000" src="https://github.com/RyamAlmalki/Task_Management_System/blob/main/message.png?raw=true">
 </p>
 
 <h1 align="left">Quick Start</h1>
