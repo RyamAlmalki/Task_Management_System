@@ -2,14 +2,13 @@
     <img width="1200" src="https://github.com/RyamAlmalki/Task_Management_System/blob/main/BANNER.png" alt="Material Bread logo">
 </p>
 <h1 align="left">Task Management System</h1>
-<p>Task Management System is a Java Based platform with essential management features.</p>
+<p>Task management system is a Java based system with essential management features.</p>
+
 
 <h1 align="left">Features</h1>
 <ul>
-  <li>Shopping cart</li>
-  <li>Product Filtering</li>
-  <li>User-Friendly Navigation</li>
-  <li>Payment</li>
+  <li>Task Priority</li>
+  <li>Collaboration</li>
 </ul>
 
 
